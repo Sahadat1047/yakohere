@@ -40,12 +40,10 @@
 <br />
 <br />
 
- <details> 
-  <summary>Github Stats</summary>
+### Github Stats 
 
   <img align="left" alt="Yakhyo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yakohere&show_icons=true&hide_border=true" />
-
-</details>
+ 
 
 [website]: https://yakhyo.me
 [youtube]: https://youtube.com/yakohere
