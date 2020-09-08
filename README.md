@@ -8,10 +8,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love listening to music and coding.
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
 ### Connect with me:
 
 [<img align="left" alt="yakohere" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -38,8 +34,7 @@
  <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> 
 
 <br />
-<br />
-
+ 
 ### Github Stats 
 
   <img align="left" alt="Yakhyo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yakohere&show_icons=true&hide_border=true" />
