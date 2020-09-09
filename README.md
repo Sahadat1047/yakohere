@@ -11,9 +11,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yakhyoismoildjonov@gmail.com)](mailto:yakhyoismoildjonov@gmail.com) 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/yakohere)
 - 🥅 2020 Goals: Contribute more to Open Source projects
-
-<br/>
-
+ 
 ### Languages and Tools:
 
  <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> 
@@ -30,9 +28,7 @@
  <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> 
  <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> 
  <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> 
- 
- <br/>
- 
+  
 ### Github Stats 
 
   <img align="left" alt="Yakhyo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yakohere&show_icons=true&hide_border=true" />
