@@ -1,17 +1,16 @@
-### Hi there, I'm Yakhyo -  [WebSite][website] 👋
+### Hi there, I'm Yakhyo -  [WebSite][website] <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yakohere" alt="yako" /> </p> 
 
 ## I'm a software engineer!
 
 - 🔭 I’m currently working on TypeScript, JavaScript, React, NodeJs projects!
 - 👯 I’m looking to collaborate with other developers.
+- 📫 How to reach me:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yako-ism/)](https://www.linkedin.com/in/yako-ism/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yakhyoismoildjonov@gmail.com)](mailto:yakhyoismoildjonov@gmail.com) 
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/yakohere)
 - 🥅 2020 Goals: Contribute more to Open Source projects
-
-### Connect with me:
-
-[<img align="left" alt="yakohere" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="yakohere | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="yakohere | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="yakohere | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
 
